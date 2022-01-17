@@ -5,7 +5,7 @@
 <br>
 <h3><p align="center">Hi there,  I'm <a href="https://www.linkedin.com/in/rafael-monteiro-546406122/">Rafael</a> 👋</p></h3>
 
-<P> I really enjoy solving problems and being challenged. As an athlete, I strive to be the best at what I do: software development..</>
+<P> I really enjoy solving problems and being challenged. As an athlete, I strive to be the best at what I do: software development.</>
 
 <br />
 
