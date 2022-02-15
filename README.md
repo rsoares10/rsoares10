@@ -9,7 +9,7 @@
 
 <br />
 
-### 🤝 Connect with me on <a href="https://www.linkedin.com/in/rafael-monteiro-546406122/"><img width=15, height=15, src="https://user-images.githubusercontent.com/8138721/149701638-8a7aab8e-fc72-46be-9f6b-5580348df4fe.png"></a>
+### 🤝 Connect with me on <a href="https://www.linkedin.com/in/rafael-soares-546406122"><img width=15, height=15, src="https://user-images.githubusercontent.com/8138721/149701638-8a7aab8e-fc72-46be-9f6b-5580348df4fe.png"></a>
 
  <br />
 
