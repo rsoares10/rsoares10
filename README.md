@@ -1,29 +1,18 @@
-<p align="center">
-<img height=200, width=350, src="https://user-images.githubusercontent.com/8138721/149686048-cc35ac98-7db3-46d0-b78b-cfe4af333cde.png">
-</p>
+<h3><p>Hi there,  I'm <a href="https://www.linkedin.com/in/rafael-monteiro-546406122/">Rafael</a> 👋</p></h3>
 
-<br>
-<h3><p align="center">Hi there,  I'm <a href="https://www.linkedin.com/in/rafael-monteiro-546406122/">Rafael</a> 👋</p></h3>
-
-<P> I really enjoy solving problems and being challenged. As an athlete, I strive to be the best at what I do: software development.</>
+<P>I really enjoy solving problems and being challenged. I'm an experienced freelance developer. Currently an artificial intelligence student, I am immersed in works involving data science, machine learning and deep learning, computer vision and NLP.</>
 
 <br />
 
-### 🤝 Connect with me on <a href="https://www.linkedin.com/in/rafael-soares-546406122"><img width=15, height=15, src="https://user-images.githubusercontent.com/8138721/149701638-8a7aab8e-fc72-46be-9f6b-5580348df4fe.png"></a>
+🤝 Connect with me on <a href="https://www.linkedin.com/in/rafael-soares-546406122">LinkedIn.</a>
 
- <br />
+🔭 I’m planning for a Project **Oracle: AI Based Oracle**.
 
-## 🔭 I'm currently working on
+🌱 I’m currently learning AWS for MLOps
 
-- NFT Game
+:books: I want to learn Apache Hadoop and Spark.
 
-<br />
-
-## 🌱 I'm currently learning
-
-- iOS, Blockchain development
-- TensorFlow and Keras
-- Crowdfunding and App Marketing
+💬 Ask me about software development machine learning, cloud, and any Tech-related stuff.
 
 <br />
 
