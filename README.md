@@ -1,5 +1,7 @@
 <h3><p>Hi there,  I'm <a href="https://www.linkedin.com/in/rsoares10/">Rafael</a> 👋</p></h3>
 
+<br />
+
 <P>I really enjoy solving problems and being challenged. I'm an experienced freelance developer. Currently an artificial intelligence student, I am immersed in works involving data science, machine learning and deep learning, computer vision and NLP.</>
 
 <br />
@@ -16,60 +18,64 @@
 
 <br />
 
-## 💼 Technical Skills
+---
 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=R&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?https://img.shields.io/badge/swift-F54A2A?style=flat&logo=c-sharp&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white)
+### Tech & Tools Preference
 
 <br />
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=android-studio&logoColor=white)
-![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=flat&logo=atom&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=flat&logo=Xcode&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+<img src="https://img.shields.io/badge/-AWS-%23FF9900?style=flat&logo=amazon-aws&logoColor=white">
+<img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/-R-%23276DC3?style=flat&logo=R&logoColor=white">
+<img src="https://img.shields.io/badge/-OpenCV-%23white?style=flat&logo=opencv&logoColor=white">
+<img src="https://img.shields.io/badge/-Jupyter-%23FA0F00?style=flat&logo=jupyter&logoColor=white">
+<img src="https://img.shields.io/badge/-Anaconda-%23217346?style=flat&logo=anaconda&logoColor=white">
+<img src="https://img.shields.io/badge/-VS Code-0078d7?style=flat&logo=visual-studio-code&logoColor=white">
+<img src="https://img.shields.io/badge/-Git-%23F05033?style=flat&logo=git&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-macOS-%23000000?style=flat&logo=apple&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Docker-%230db7ed?style=flat&logo=docker&logoColor=FFFFFF">
 
 <br />
 
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=flat&logo=Qt&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white)
-![](https://img.shields.io/badge/Style-Material--UI-informational?style=flat&logo=Material-UI&color=0081CB)
+---
 
-</br>
+### Other Techs I Know
 
-![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=flat&logo=macos&logoColor=F0F0F0)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=flat&logo=debian&logoColor=white)
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-![IOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)
+<br />
+
+<img src = "https://img.shields.io/badge/-Flutter-%230175C2?style=flat&logo=flutter&logoColor=white">
+<img src = "https://img.shields.io/badge/-Dart-%2302569B?style=flat&logo=dart&logoColor=white">
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+<img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-TypeScript-%23007ACC?style=flat&logo=typescript&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
+<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Figma-%23F24E1E?style=flat&logo=figma&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Solidity-%23363636?style=flat&logo=solidity&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Debian-D70A53?style=flat&logo=debian&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat&logo=archlinux&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-XCode-007ACC?style=flat&logo=Xcode&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Unity-%23000000?style=flat&logo=unity&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Qt-%23217346?style=flat&logo=qt&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/Style-Material--UI-informational?style=flat&logo=Material-UI&logoColor=FFFFFF">
+<img src = "https://img.shields.io/badge/-SQLite-%2307405e?style=flat&logo=sqlite&logoColor=white">
+<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Swift-F54A2A?style=flat&logo=swift&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-C%23-787878?style=flat&logo=c-sharp&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Shell%20Scripting-%23121011?style=flat&logo=gnu-bash&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-GO-%2300ADD8?style=flat&logo=go&logoColor=FFFFFF">
+
+<br />
+
+---
 
 <br />
 
