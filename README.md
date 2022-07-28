@@ -1,10 +1,10 @@
-<h3><p>Hi there,  I'm <a href="https://www.linkedin.com/in/rafael-monteiro-546406122/">Rafael</a> 👋</p></h3>
+<h3><p>Hi there,  I'm <a href="https://www.linkedin.com/in/rsoares10/">Rafael</a> 👋</p></h3>
 
 <P>I really enjoy solving problems and being challenged. I'm an experienced freelance developer. Currently an artificial intelligence student, I am immersed in works involving data science, machine learning and deep learning, computer vision and NLP.</>
 
 <br />
 
-🤝 Connect with me on <a href="https://www.linkedin.com/in/rafael-soares-546406122">LinkedIn.</a>
+🤝 Connect with me on <a href="https://www.linkedin.com/in/rsoares10/">LinkedIn.</a>
 
 🔭 I’m planning for a Project **Oracle: AI Based Oracle**.
 
