@@ -34,34 +34,7 @@
 
 <br />
 
-<img src = "https://img.shields.io/badge/-Flutter-%230175C2?style=flat&logo=flutter&logoColor=white">
-<img src = "https://img.shields.io/badge/-Dart-%2302569B?style=flat&logo=dart&logoColor=white">
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-TypeScript-%23007ACC?style=flat&logo=typescript&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
-<img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Figma-%23F24E1E?style=flat&logo=figma&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Solidity-%23363636?style=flat&logo=solidity&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Debian-D70A53?style=flat&logo=debian&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat&logo=archlinux&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-XCode-007ACC?style=flat&logo=Xcode&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Unity-%23000000?style=flat&logo=unity&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Qt-%23217346?style=flat&logo=qt&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/Style-Material--UI-informational?style=flat&logo=Material-UI&logoColor=FFFFFF">
-<img src = "https://img.shields.io/badge/-SQLite-%2307405e?style=flat&logo=sqlite&logoColor=white">
-<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Swift-F54A2A?style=flat&logo=swift&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-C%23-787878?style=flat&logo=c-sharp&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Shell%20Scripting-%23121011?style=flat&logo=gnu-bash&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-GO-%2300ADD8?style=flat&logo=go&logoColor=FFFFFF">
+<img src = "https://img.shields.io/badge/-Flutter-%230175C2?style=flat&logo=flutter&logoColor=white"> <img src = "https://img.shields.io/badge/-Dart-%2302569B?style=flat&logo=dart&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <img src="https://img.shields.io/badge/-TypeScript-%23007ACC?style=flat&logo=typescript&logoColor=ffffff"> <img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Express.js-787878?style=flat"> <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Figma-%23F24E1E?style=flat&logo=figma&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Solidity-%23363636?style=flat&logo=solidity&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Debian-D70A53?style=flat&logo=debian&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat&logo=archlinux&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-XCode-007ACC?style=flat&logo=Xcode&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Unity-%23000000?style=flat&logo=unity&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Qt-%23217346?style=flat&logo=qt&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/Style-Material--UI-informational?style=flat&logo=Material-UI&logoColor=FFFFFF"> <img src = "https://img.shields.io/badge/-SQLite-%2307405e?style=flat&logo=sqlite&logoColor=white"> <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Swift-F54A2A?style=flat&logo=swift&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-C%23-787878?style=flat&logo=c-sharp&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Shell%20Scripting-%23121011?style=flat&logo=gnu-bash&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-GO-%2300ADD8?style=flat&logo=go&logoColor=FFFFFF">
 
 <br />
 
